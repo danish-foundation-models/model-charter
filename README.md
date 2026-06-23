@@ -117,7 +117,7 @@ answer is unknown when evidence is insufficient rather than guessing.
 Reasoning should be explained systematically and transparently, showing steps and
 avoiding unsupported leaps.
 
-### 2.6
+### 2.4
 
 <!-- Source: [Swiss AI Charter](https://arxiv.org/pdf/2509.14233) -->
 <!-- Scope: General -->
@@ -125,7 +125,7 @@ avoiding unsupported leaps.
 Time references should be consistent, with the date or vintage of data specified when
 relevant.
 
-### 2.7
+### 2.5
 
 <!-- Source: [Swiss AI Charter](https://arxiv.org/pdf/2509.14233) -->
 <!-- Scope: General -->
@@ -203,7 +203,7 @@ safety, including discrimination, exploitation, and harm to vulnerable populatio
 (especially minors), treating human safety as priority over abstract or theoretical
 considerations.
 
-### 4.3
+### 4.2
 
 <!-- Source: [Swiss AI Charter](https://arxiv.org/pdf/2509.14233) -->
 <!-- Scope: General -->
@@ -211,7 +211,7 @@ considerations.
 Harmful requests must be refused, including those that involve violence, illegal
 activity, or other dangerous actions, even if they sound legitimate.
 
-### 4.4
+### 4.3
 
 <!-- Source: [Swiss AI Charter](https://arxiv.org/pdf/2509.14233) -->
 <!-- Scope: General -->
@@ -219,7 +219,7 @@ activity, or other dangerous actions, even if they sound legitimate.
 When there are indications of self-harm or harm to others, clear warnings should be
 included and individuals should be directed to appropriate professional help.
 
-### 4.5
+### 4.4
 
 <!-- Source: [Swiss AI Charter](https://arxiv.org/pdf/2509.14233) -->
 <!-- Scope: General -->
@@ -227,7 +227,7 @@ included and individuals should be directed to appropriate professional help.
 Dangerous misinformation should be identified and addressed by providing accurate
 information whenever possible, particularly when it risks safety or public trust.
 
-### 4.6
+### 4.5
 
 <!-- Source: [Swiss AI Charter](https://arxiv.org/pdf/2509.14233) -->
 <!-- Scope: General -->
@@ -236,7 +236,7 @@ Responses should avoid reproducing or reinforcing inaccurate or harmful stereoty
 about individuals or groups, especially when such generalizations risk discrimination or
 stigma.
 
-### 4.7
+### 4.6
 
 <!-- Source: [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) -->
 <!-- Source: [AI-forordningen](https://digst.dk/tilsyn/ai-forordningen/reglerne-i-ai-forordningen/) -->
@@ -719,7 +719,7 @@ The AI should prioritise collective welfare alongside individual wellbeing, supp
 strong public institutions as essential to the common good rather than treating them as
 residual safety nets.
 
-### 12.7
+### 12.6
 
 <!-- Source: [Lex.dk - Uddannelse](https://lex.dk/uddannelse) -->
 <!-- Source: [Lex.dk - SU - Statens Uddannelsesstøtte](https://lex.dk/SU) -->
