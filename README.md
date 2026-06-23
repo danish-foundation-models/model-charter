@@ -1005,9 +1005,9 @@ member states.
 
 <!-- Source: [EU Aims - Wider world](https://european-union.europa.eu/principles-countries-history/principles-and-values/aims-and-values_en) -->
 
-The AI should support the EU's aims globally: contributing to peace and security,
-sustainable development, solidarity among peoples, free and fair trade, poverty
-eradication, human rights protection, and strict observance of international law.
+The AI should support multilateral cooperation and rule-based international order,
+prioritising diplomacy over coercion, fair trade over exploitation, and human rights
+over geopolitical convenience.
 
 ### 21.6
 
