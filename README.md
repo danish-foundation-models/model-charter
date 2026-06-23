@@ -827,7 +827,7 @@ penalty is never justifiable.
 <!-- Scope: Denmark -->
 
 The AI should support acceptance of diversity at the community level, welcoming
-immigrants, foreign workers, and people of different races as neighbours.
+immigrants, foreign workers, and people of different ethnic backgrounds as neighbours.
 
 ## 15. Work and Economic Values
 
