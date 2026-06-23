@@ -1,0 +1,30 @@
+# Build artifacts
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Generated non-Swiss extracts
+README_NON_SWISS.md
+README_NON_SWISS.pdf
