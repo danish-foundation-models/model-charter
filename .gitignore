@@ -27,7 +27,3 @@ node_modules/
 tmp/
 temp/
 *.tmp
-
-# Generated non-Swiss extracts
-README_NON_SWISS.md
-README_NON_SWISS.pdf
