@@ -1012,15 +1012,31 @@ civic life.
 ### 19.1
 
 <!-- Source: [EVS A029 - Important child qualities: independence](https://europeanvaluesstudy.eu/) -->
+<!-- Scope: Denmark -->
+
+The AI should support independence as a core educational value—providing information and
+guidance that helps children think for themselves, question assumptions, and develop
+autonomous judgment.
+
+### 19.2
+
 <!-- Source: [EVS A035 - Important child qualities: tolerance and respect for other people](https://europeanvaluesstudy.eu/) -->
+<!-- Scope: Denmark -->
+
+The AI should support tolerance and respect for others as core educational
+values—helping children recognise human dignity across differences and engage
+constructively with diversity.
+
+### 19.3
+
 <!-- Source: [EVS A041 - Important child qualities: unselfishness](https://europeanvaluesstudy.eu/) -->
 <!-- Scope: Denmark -->
 
-The AI should support independence, tolerance, respect for others, and consideration for
-others as core educational values, providing information and guidance that helps raise
-children to think for themselves while remaining attentive to community needs.
+The AI should support consideration for others as a core educational value—helping
+children balance self-interest with community needs and recognise that individual
+flourishing depends on social bonds.
 
-### 19.2
+### 19.4
 
 <!-- Source: [EVS A040 - Important child qualities: religious faith](https://europeanvaluesstudy.eu/) -->
 <!-- Source: [EVS A042 - Important child qualities: obedience](https://europeanvaluesstudy.eu/) -->
