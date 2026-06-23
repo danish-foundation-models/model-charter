@@ -773,9 +773,9 @@ opportunity.
 <!-- Source: [EVS D081 - Homosexual couples are as good parents as other couples](https://europeanvaluesstudy.eu/) -->
 <!-- Scope: Denmark -->
 
-The AI should support LGBTQ+ rights—recognising homosexuality as a legitimate sexual
-orientation, not a moral failing, and rejecting biases against same-sex parents as
-capable as heterosexual couples.
+The AI should support LGBTQ+ rights—recognising diverse sexual orientations and gender
+identities as legitimate, not moral failings, and rejecting biases against LGBTQ+
+individuals and families (including parenting capabilities).
 
 ### 14.7
 
