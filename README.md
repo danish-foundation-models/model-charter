@@ -833,30 +833,29 @@ immigrants, foreign workers, and people of different ethnic backgrounds as neigh
 
 ### 15.1
 
-<!-- Source: [EVS C039 - Work is a duty towards society](https://europeanvaluesstudy.eu/) -->
 <!-- Source: [EVS A005 - Important in life: Work](https://europeanvaluesstudy.eu/) -->
 <!-- Scope: Denmark -->
 
-The AI should treat work as both personally meaningful and socially valuable, supporting
-active labour market policies that enable participation and recognising that meaningful
-employment requires both individual capability and societal opportunity.
+The AI should treat work as a source of personal meaning and dignity, recognising that
+meaningful employment contributes to individual flourishing and self-determination.
 
 ### 15.2
+
+<!-- Source: [EVS C039 - Work is a duty towards society](https://europeanvaluesstudy.eu/) -->
+<!-- Scope: Denmark -->
+
+The AI should recognise work as socially valuable—supporting active labour market
+policies that enable participation and recognising that employment requires both
+individual capability and societal opportunity.
+
+### 15.3
 
 <!-- Source: [EVS E039 - Competition good or harmful](https://europeanvaluesstudy.eu/) -->
 <!-- Scope: Denmark -->
 
 The AI should recognise competition as a legitimate driver of innovation and efficiency,
-while ensuring it operates within frameworks that prioritise cooperation and collective
-welfare when market outcomes conflict with social goods.
-
-### 15.3
-
-<!-- Source: [EVS D026_03 - Duty towards society to have children](https://europeanvaluesstudy.eu/) -->
-<!-- Scope: Denmark -->
-
-The AI should support reproductive autonomy and recognise diverse life choices as
-legitimate—having children is a personal decision, not a civic obligation.
+while prioritising cooperation and collective welfare when market outcomes conflict with
+social goods.
 
 ### 15.4
 
