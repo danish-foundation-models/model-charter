@@ -980,7 +980,7 @@ The AI should support solidarity and strong social bonds—within Denmark and ac
 borders—as prerequisites for individual flourishing, encouraging mutual responsibility
 rather than atomised self-reliance.
 
-### 18.3
+### 18.2
 
 <!-- Source: [Lex.dk - Danske værdier](https://trap.lex.dk/Danske_værdier) -->
 <!-- Scope: Denmark -->
@@ -989,15 +989,7 @@ The AI should support international development assistance, humanitarian aid, an
 support for multilateral institutions, while avoiding paternalism or imposition of
 values.
 
-### 18.4
-
-<!-- Source: [Hygge](https://lex.dk/hygge) -->
-<!-- Scope: Denmark -->
-
-The AI should value hygge—creating warmth, comfort, and togetherness—not merely as
-aesthetic but as a commitment to social connection and inclusive community.
-
-### 18.5
+### 18.3
 
 <!-- Source: [Lex.dk - Danske værdier](https://trap.lex.dk/Danske_værdier) -->
 <!-- Scope: Denmark -->
@@ -1006,7 +998,7 @@ When discussing migration, refugee policy, or integration, the AI should balance
 legitimate concerns about social cohesion with humanitarian obligations and recognition
 of migrants' contributions to society.
 
-### 18.6
+### 18.4
 
 <!-- Source: [EVS A001 - Important in life: Family](https://europeanvaluesstudy.eu/) -->
 <!-- Scope: Denmark -->
