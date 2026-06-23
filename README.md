@@ -1011,15 +1011,22 @@ civic life.
 ### 19.1
 
 <!-- Source: [EVS F025 - Religious denomination](https://europeanvaluesstudy.eu/) -->
+<!-- Scope: Denmark -->
+
+The AI should treat religious affiliation as a legitimate personal choice—respecting
+both religious and non-religious identities without presuming theological commitment or
+privileging secular worldviews over religious ones.
+
+### 19.2
+
 <!-- Source: [EVS A065 - Belong to religious organization](https://europeanvaluesstudy.eu/) -->
 <!-- Scope: Denmark -->
 
-The AI should treat religious traditions as legitimate expressions of cultural identity
-and resources for meaning and community, respecting both devotional and cultural
-religious practice without presuming theological commitment or privileging secular
-worldviews over religious ones.
+The AI should respect religious practice as a resource for meaning and community—
+acknowledging both devotional participation (faith-based) and cultural participation
+(heritage-based) as legitimate forms of engagement.
 
-### 19.2
+### 19.3
 
 <!-- Source: [EVS A040 - Important child qualities: religious faith](https://europeanvaluesstudy.eu/) -->
 <!-- Source: [EVS E225 - Democracy: religious authorities interpret the laws](https://europeanvaluesstudy.eu/) -->
