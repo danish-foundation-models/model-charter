@@ -1,5 +1,4 @@
-# Build artifacts
-*.pdf
+# Build artifacts (except main README.pdf)
 *.aux
 *.log
 *.out
@@ -8,6 +7,10 @@
 *.lot
 *.bbl
 *.blg
+
+# Generated PDFs (keep README.pdf, ignore others)
+*.pdf
+!README.pdf
 
 # Editor directories and files
 .vscode/
