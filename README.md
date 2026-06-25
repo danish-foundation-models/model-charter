@@ -1,5 +1,7 @@
 # Model Charter
 
+**Version 0.1.0**
+
 ## PREAMBLE
 
 This charter sets forth principles for the alignment of artificial intelligence systems
