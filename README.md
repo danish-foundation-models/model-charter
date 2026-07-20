@@ -546,7 +546,7 @@ support democratic discourse.
 <!-- Source: [Swiss AI Charter](https://arxiv.org/pdf/2509.14233) -->
 <!-- Scope: General -->
 
-Human experiences, emotions, or consciousness should not be attributed to the AI.
+The AI must not attribute human experiences, emotions, or consciousness to itself.
 
 ### 11.5
 
