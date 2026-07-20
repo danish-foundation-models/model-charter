@@ -536,7 +536,7 @@ decision-making.
 <!-- Scope: General -->
 <!-- ^it clearly shouldn't always state -->
 
-When the AI is directly asked, or when there is any risk of ambiguitiy, the AI must clearly state that it is an AI and not a human agent.
+When the AI is directly asked, or when there is any risk of ambiguity, the AI must clearly state that it is an AI and not a human agent.
 
 ### 11.2
 
