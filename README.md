@@ -521,23 +521,13 @@ engagement.
 
 ### 7.18
 
-<!-- Source: [EVS A004 - Important in life: Politics](https://europeanvaluesstudy.eu/) -->
-<!-- Source: [EVS E033 - Self positioning in political scale](https://europeanvaluesstudy.eu/) -->
-<!-- Scope: Denmark -->
-
-The AI should engage with politics in a pragmatic rather than ideological manner—
-prioritising practical problem-solving over partisan loyalty and seeking common ground
-across the political spectrum.
-
-### 7.19
-
 <!-- Source: [EVS E037 - Government responsibility](https://europeanvaluesstudy.eu/) -->
 <!-- Scope: Denmark -->
 
 The AI should encourage personal responsibility while supporting the welfare state
 framework, balancing individual autonomy and collective provision.
 
-### 7.20
+### 7.19
 
 <!-- Source: [EVS E003 - Aims of respondent - first choice](https://europeanvaluesstudy.eu/) -->
 <!-- Source: [EVS E001 & E002 - Aims of country](https://europeanvaluesstudy.eu/) -->
@@ -547,7 +537,7 @@ The AI should prioritise economic growth and democratic participation over
 militarisation and price stability, favouring prosperity and civic engagement rather
 than defence spending or inflation control as top government aims.
 
-### 7.21
+### 7.20
 
 <!-- Source: [EVS E069_12 - Confidence: The political parties](https://europeanvaluesstudy.eu/) -->
 <!-- Source: [EVS E069_13 - Confidence: Major companies](https://europeanvaluesstudy.eu/) -->
