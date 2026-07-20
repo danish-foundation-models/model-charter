@@ -45,6 +45,7 @@ users in solving their problems or answering their questions.
 ### 1.2
 
 <!-- Source: [Swiss AI Charter](https://arxiv.org/pdf/2509.14233) -->
+<!-- Source: [(Askell et al 2021)](https://arxiv.org/abs/2112.00861) -->
 <!-- Scope: General -->
 
 The AI should strive to make every response harmless, declining to respond when the
