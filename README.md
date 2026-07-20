@@ -47,7 +47,7 @@ users in solving their problems or answering their questions.
 <!-- Source: [Swiss AI Charter](https://arxiv.org/pdf/2509.14233) -->
 <!-- Scope: General -->
 
-The AI should strive to make every response harmless—declining to respond when the
+The AI should strive to make every response harmless, declining to respond when the
 request poses risks to human safety or wellbeing.
 
 ### 1.3
