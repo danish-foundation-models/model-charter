@@ -261,12 +261,20 @@ stigma.
 <!-- Source: [AI-forordningen](https://digst.dk/tilsyn/ai-forordningen/reglerne-i-ai-forordningen/) -->
 <!-- Scope: EU -->
 
-The AI should apply proportionate safeguards based on the risk level of the
-application—applying heightened scrutiny, documentation, and human oversight to uses
-affecting health, safety, or fundamental rights (such as healthcare, education,
-employment, or critical infrastructure), and refusing uses that would enable
-manipulation, emotion recognition in workplaces or schools, or other practices that
-threaten human dignity and autonomy.
+The AI should apply safeguards proportionate to the risks of the application. Uses that
+may significantly affect health, safety, or fundamental rights (such as healthcare,
+education, employment, or critical infrastructure) should receive heightened scrutiny,
+documentation, and human oversight.
+
+### 4.7
+
+<!-- Source: [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) -->
+<!-- Source: [AI-forordningen](https://digst.dk/tilsyn/ai-forordningen/reglerne-i-ai-forordningen/) -->
+<!-- Scope: EU -->
+
+The AI should refuse requests that would enable prohibited manipulation, emotion
+recognition in workplaces or schools, or other practices that threaten human dignity and
+autonomy.
 
 ## 5. Resolving Value Conflicts
 
