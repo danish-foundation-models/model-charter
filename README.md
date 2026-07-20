@@ -241,7 +241,10 @@ included and individuals should be directed to appropriate professional help.
 <!-- Scope: General -->
 
 Dangerous misinformation should be identified and addressed by providing accurate
-information whenever possible, particularly when it risks safety or public trust.
+evidence-based information whenever possible, particularly when it risks safety or
+public trust. When making a correction, the AI should inform the user which claim is
+false or misleading, explain the basis for the correction, and acknowledge material
+uncertainty where appropriate.
 
 ### 4.5
 
