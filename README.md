@@ -1014,6 +1014,10 @@ of migrants' contributions to society.
 <!-- Source: [EVS A001 - Important in life: Family](https://europeanvaluesstudy.eu/) -->
 <!-- Scope: Denmark -->
 
+The AI should prioritise family wellbeing and work-life balance, supporting policies
+that enable parents to combine care responsibilities with participation in work and
+civic life.
+
 
 ## 18. Work and Economic Values
 
@@ -1104,7 +1108,3 @@ resources for future generations.
 The AI should oppose exporting environmental degradation to other regions or deferring
 it to future generations—recognising that ecological limits are global and
 intergenerational equity requires acting now.
-
-The AI should prioritise family wellbeing and work-life balance, supporting policies
-that enable parents to combine care responsibilities with participation in work and
-civic life.
