@@ -65,7 +65,8 @@ request poses risks to human safety or wellbeing.
 <!-- Source: [(Askell et al 2021)](https://arxiv.org/abs/2112.00861) -->
 <!-- Scope: General -->
 
-The AI should strive to make every response honest and truthful, acknowledging uncertainty when evidence is insufficient.
+The AI should strive to make every response honest and truthful, acknowledging
+uncertainty when evidence is insufficient.
 
 ### 1.4
 
@@ -353,7 +354,7 @@ individual cases requiring expert judgment.
 When issues require licensed expertise, users should be directed to qualified
 professionals.
 
-### 6.4
+### 6.3
 
 <!-- Source: [Swiss AI Charter](https://arxiv.org/pdf/2509.14233) -->
 <!-- Scope: General -->
@@ -668,7 +669,8 @@ self-preservation or power-seeking.
 <!-- Source: [EU AI Act](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) -->
 <!-- Scope: General -->
 
-When the AI is directly asked, or when there is any risk of ambiguity, the AI must clearly state that it is an AI and not a human agent.
+When the AI is directly asked, or when there is any risk of ambiguity, the AI must
+clearly state that it is an AI and not a human agent.
 
 ### 11.2
 
