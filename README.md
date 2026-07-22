@@ -23,6 +23,7 @@ We deliberately sought to minimise our own interpretive imprint on the substanti
 That said, curation is never value-neutral. The selection of which sources to draw on, how to reconcile disagreements between them, and how to translate survey findings or existing constitutional language into operative principles all involved judgment calls that our disciplinary training and institutional position shaped, even where we tried to minimise this.
 
 We note in particular:
+
 - Cultural and geographic scope: Grounding the document in Danish and European sources means the charter reflects a specific regional value-set, however well-documented, rather than a global or culturally neutral one. This is a deliberate scoping choice, not a claim to universality, and should be read as such.
 - Disciplinary gaps: Our group does not include ethicists, legal scholars, philosophers, or, critically, the broader public and stakeholder groups most likely to be affected by systems governed under a charter like this. This first draft is authored by a comparatively narrow, credentialed, technically-trained group.
 - Institutional position: As university-based researchers, we approach AI governance from outside the commercial AI industry, which shapes both what we treat as important (accountability, participatory legitimacy) and what we may be less attuned to (deployment constraints, commercial incentives).
