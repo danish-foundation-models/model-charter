@@ -16,6 +16,19 @@ and responsive to social and technological change. This document should be seen 
 actively developed. Feel free to pose questions in the
 [issues](https://github.com/danish-foundation-models/model-charter/issues).
 
+### POSITIONALITY STATEMENT
+
+The initial draft of this charter was authered by a group of 10 researchers spanning computer science and linguistics, based at a list of danish institutions - University of Southern Denmark, Aarhus University, Copenhagen University and the Alexandra Institute. Our disiplinary composition shaped shaped both the process and the document itself: computational training oriented us toward formalizing curation as mechanism - traceable rules, accountable roles and defensible procedures. 
+We deliberatly sought to minimize our own interpretive imprint on the substantive content of the charter. Rather than generating value commitments from our own judgement, we grounded the document in existing constitutions and charters, surveys and research literature on Danish and European values, treating these as primary source material and our role as one of curation and synthesis rather than authorship of values from first principles. 
+That said, curation is never value-neutral. The selection of which sources to draw on, how to reconcile disagreements between them, and how to translate survey findings or existing constitutional language into operative principles all involved judgment calls that our disciplinary training and institutional position shaped, even where we tried to minimize this.
+
+We note in particular:
+- Cultural and geographic scope: Grounding the document in Danish and European sources means the charter reflects a specific regional value-set, however well-documented, rather than a global or culturally neutral one. This is a deliberate scoping choice, not a claim to universality, and should be read as such.
+- Disciplinary gaps: Our group does not include ethicists, legal scholars, philosophers, or — critically — the broader public and stakeholder groups most likely to be affected by systems governed under a charter like this. This first draft is authored by a comparatively narrow, credentialed, technically-trained group.
+- Institutional position: As university-based researchers, we approach AI governance from outside the commercial AI industry, which shapes both what we treat as important (accountability, participatory legitimacy) and what we may be less attuned to (deployment constraints, commercial incentives).
+
+We treat this document explicitly as an initial draft rather than a finished artifact. The nextstages include iterating with larger groups of reserachers, from multiple disciplines and members of the public, moving the document along the participatory spectrum, from an expert curated draft toward a more broadly authored one. This positionality statement should therefore be read as characterizing the  standpoint of this drafting stage specifically - later version of the charter, shaped by wider participation, will carry a different and broader positionality than the one disclosed here. 
+
 ## LIST OF ARTICLES
 
 1. Response Quality
